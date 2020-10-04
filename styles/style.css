@@ -31,11 +31,13 @@
 
 .header__title {
     width: 730px;
-    position: absolute;
+    position: relative;
+    align-items: center;
     left: 64px;
     line-height: 96px;
     font-size: 102px;
     font-weight: bold;
+    z-index: 2;
 }
 
 .header__subtitle {
@@ -46,6 +48,7 @@
     line-height: 25px;
     font-size: 18px;
     font-weight: normal;
+    z-index: 2;
 }
 
 .header__link {
@@ -139,12 +142,12 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
+    margin-bottom: 100px;
 }
 
 .table__cell {
     width: 250px;
     margin-top: 60px;
-    margin-bottom: 100px;
     padding: 0;
 }
 
@@ -274,6 +277,7 @@
 .footer {
     background-color: #1f1f1f;
     color: white;
+    min-height: 350px;
 }
 
 .footer__columns {
@@ -290,6 +294,7 @@
     flex-direction: column;
     display: flex;
     justify-content: space-between;
+    min-height: 250px;
 }
 
 .logo_place_footer {
