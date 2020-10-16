@@ -1,0 +1,14 @@
+@import url("../footer/__author/footer__author.css");
+@import url("../footer/__column-heading/footer__column-heading.css");
+@import url("../footer/__column-link/footer__column-link.css");
+@import url("../footer/__column-links/footer__column-links.css");
+@import url("../footer/__columns/footer__columns.css");
+@import url("../footer/__social-icon/footer__social-icon.css");
+@import url("../footer/__social-icons/footer__social-icons.css");
+@import url("../footer/_content_copyright/footer__column_content_copyright.css");
+@import url("../logo/_place/logo_place_footer.css");
+.footer {
+  background-color: #1f1f1f;
+  color: white;
+  min-height: 350px;
+}
