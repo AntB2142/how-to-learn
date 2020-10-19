@@ -1,6 +1,5 @@
 @import url("../vendors/normalize.css");
 @import url("../blocks/page/page.css");
-@import url("../blocks/content/content.css");
 @import url("../blocks/header/header.css");
 @import url("../blocks/description/description.css");
 @import url("../blocks/digits/digits.css");
@@ -12,7 +11,6 @@
 @import url("../blocks/section-subtitle/section-subtitle.css");
 @import url("../blocks/table/table.css");
 @import url("../blocks/two-colums/two-colums.css");
-@import url("../blocks/logo/_place/logo_place_header.css");
 @import url("../blocks/rotation/rotation.css");
 @import url("../blocks/techniques/techniques.css");
 @import url("../blocks/cards/cards.css");
