@@ -1,9 +1,9 @@
-@import url("../section-subtitle/_theme_dark/section-subtitle_theme_dark.css");
+@import url("../section-subtitle/_theme/section-subtitle_theme_dark.css");
 .section-subtitle {
-  width: 60%;
-  text-align: center;
-  margin: auto;
-  line-height: 34px;
-  font-size: 24px;
-  font-weight: normal;
+    width: 60%;
+    text-align: center;
+    margin: auto;
+    line-height: 34px;
+    font-size: 24px;
+    font-weight: normal;
 }
