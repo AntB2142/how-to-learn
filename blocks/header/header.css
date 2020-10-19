@@ -5,12 +5,12 @@
 @import url("../header/__title/header__title.css");
 @import url("../logo/_place/logo_place_header.css");
 .header {
-  height: 100vh;
-  min-height: 600px;
-  max-height: 756px;
-  background-color: #f2f2f2;
-  display: flex;
-  position: relative;
-  align-items: center;
-  overflow: hidden;
+    height: 100vh;
+    min-height: 600px;
+    max-height: 756px;
+    background-color: #f2f2f2;
+    display: flex;
+    position: relative;
+    align-items: center;
+    overflow: hidden;
 }

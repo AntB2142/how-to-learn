@@ -8,8 +8,8 @@
 @import url("../khan/__quote/khan__quote.css");
 @import url("../khan/__title/khan__title.css");
 .khan {
-  background-color: #f2f2f2;
-	display: flex;
-	align-items: center;
-	justify-content: center;
+    background-color: #f2f2f2;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
